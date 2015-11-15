@@ -1,0 +1,33 @@
+/* Prime CSS Peer Challenge */
+/* In this challenge, you and a partner will create a pretty familiar page layout for a blog:
+ *  - A header at the top
+ *  - A navigation bar under that
+ *  - A two-column layout after that
+ *  - Ending with a footer
+ *
+ * The HTML has been supplied for you.
+ */
+
+/**
+ * 1. Apply the following rules to the ul element that is a descendant of the first header on the page.
+ *    a. Set the list-style-type to none
+ *    b. Set the padding to 0
+ *    c. Set the margin to 0
+ * 2. Apply a left float to each li element that descends from the above ul element.
+ * 3. Set the links within each li element to display as block.
+ * 4. Set the dimensions, padding, margins, and any other styles you like to the aforementioned links.
+ *
+ */
+
+/* Switch! Let your partner drive now. */
+
+/**
+ * 5. Use lipsum.com or an equivalent website to add 3 or more paragraphs of text to the HTML doc.
+ *    NOTE: There is a comment in the area where the paragraphs should be placed. Look for it.
+ * 6. Apply a float to the aside element to make a two-column layout. Remember that you'll need to change other
+ *    properties to make this happen.
+ * 7. Apply a clear to the footer.
+ * 8. Customize the page and make it your own. Try applying at least 4 new rules.
+ */
+
+ /* Submit your repo URL to http://goo.gl/forms/bIxNbG1gcG. */
